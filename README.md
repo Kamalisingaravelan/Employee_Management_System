@@ -62,8 +62,10 @@ Once processing is complete, the controller sends a structured **HTTP response**
 
 
 ## Project Images
+
 ### ERDiagram
 <img width="438" height="580" alt="image" src="https://github.com/user-attachments/assets/fc078c8b-aa17-41d8-a8d3-412088d100dd" />
+
 ### Sample Input&Outputs
 <img width="795" height="202" alt="image" src="https://github.com/user-attachments/assets/20b6c11d-2c14-43c5-8353-87efb6edef5d" />
 <img width="798" height="674" alt="image" src="https://github.com/user-attachments/assets/9d501499-959a-4055-9e02-a8435abcb088" /><img width="768" height="498" alt="image" src="https://github.com/user-attachments/assets/34cc434b-13ce-4a50-8680-f14b00e5f720" /><img width="761" height="568" alt="image" src="https://github.com/user-attachments/assets/fc5b106e-0fc8-4e0b-89c6-977c86c864f8" /><img width="748" height="322" alt="image" src="https://github.com/user-attachments/assets/b8fa719b-2b38-4d9c-8c84-1bf51ab5cc0d" />
